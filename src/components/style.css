@@ -1,0 +1,11 @@
+.bar {
+    color: green;
+    margin: 10px;        
+}
+
+.weather-info {
+    color: green;
+    margin: 10px;
+    text-align: center;
+    background-color: lightgreen;
+}
